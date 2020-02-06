@@ -1,0 +1,35 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    color:rgb(248, 179, 51);
+    font-size :25px;
+    background-color: rgb(74, 145, 252);
+}
+
+
+article{
+    margin-left: 550px;
+    margin-top: 50px;
+    padding: 50px;
+}
+#btn{
+    border-radius: 3px;
+    background-color:rgba(255, 255, 255, 0.678);
+    border-color: white;
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 850px;
+}
+
+#photo{
+    position:flex;
+    height: 15%;
+    width: 15%;
+    
+}
+
+#phrase{
+    margin-left: 20px;
+    width: 20%;
+    position:flex;
+    
+}
